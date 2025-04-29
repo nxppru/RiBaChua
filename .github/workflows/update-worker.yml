@@ -1,4 +1,4 @@
-name: Auto Update Worker
+name: BPB Auto Update Worker
 
 on:
   push:
